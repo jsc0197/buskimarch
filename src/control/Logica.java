@@ -5,7 +5,6 @@ package control;
 //quinto en el original 
 //diezx original 
 
-//forking uno
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
