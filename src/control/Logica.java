@@ -1,10 +1,4 @@
 package control;
-//filling my heart
-//otro cambio en el original
-//tercer cambio original
-//quinto en el original 
-//diezx original 
-
 //forking uno
 import javax.swing.JButton;
 import javax.swing.JPanel;
