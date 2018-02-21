@@ -9,5 +9,7 @@ public class Utiles {
 		int[] coordenada={Integer.valueOf(name.substring(0, 1)),Integer.valueOf(name.substring(1, 2))};
 		return coordenada;
 	}
-
+public static void hola () {
+	System.out.println("hola");
+}
 }
